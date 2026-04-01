@@ -22,3 +22,13 @@ Gold and Silver cards contribute significantly less
 
 Most customers prefer basic/entry-level cards
 Premium card adoption is low → opportunity for upselling
+
+---------------------------------------------------------------------------------------------------------------
+
+This project is an interactive Credit Card Transaction Analysis Dashboard built using Power BI to analyze financial data and customer spending behavior. The dashboard provides insights into key metrics such as total revenue, transaction volume, interest earned, and transaction count through visually appealing and interactive reports.
+
+It includes detailed analysis based on card categories (Blue, Gold, Silver), expense types, customer demographics (education & job), and quarterly trends. The project helps in identifying high-performing segments, understanding customer preferences, and tracking revenue patterns over time.
+
+The dashboard demonstrates strong capabilities in data cleaning, data modeling, DAX calculations, and data visualization, making it a practical example of real-world business intelligence and analytics.
+
+<img width="1320" height="729" alt="Screenshot 2026-04-01 201227" src="https://github.com/user-attachments/assets/d8973337-8660-4fdd-bdfc-1c16d7e45860" />
