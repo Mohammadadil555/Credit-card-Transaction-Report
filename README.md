@@ -31,4 +31,5 @@ It includes detailed analysis based on card categories (Blue, Gold, Silver), exp
 
 The dashboard demonstrates strong capabilities in data cleaning, data modeling, DAX calculations, and data visualization, making it a practical example of real-world business intelligence and analytics.
 
-<img width="1320" height="729" alt="Screenshot 2026-04-01 201227" src="https://github.com/user-attachments/assets/d8973337-8660-4fdd-bdfc-1c16d7e45860" />
+<img width="1312" height="726" alt="Screenshot 2026-04-01 201742" src="https://github.com/user-attachments/assets/5b2f7262-15f1-45e0-a16a-9c54a24b563c" />
+
